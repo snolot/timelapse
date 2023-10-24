@@ -1,4 +1,4 @@
-# Tornado
+# Timelapse
 
 Three.js experiment for with particles using GPU rendering
 
